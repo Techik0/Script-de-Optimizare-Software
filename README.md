@@ -1,5 +1,5 @@
 Copyright (c) [2025] [Techik].
-Nu este permisă modificarea, redistribuirea sau utilizarea acestui script fără permisiunea autorului.
+Nu este permisă modificarea acestui script fără permisiunea autorului.
 
 
 
