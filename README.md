@@ -2,7 +2,7 @@ Copyright (c) [2025] [Techik].
 Nu este permisă modificarea acestui script fără permisiunea autorului.
 
 Vreau sa vă anunț cu mare bucurie că asta este prima versiune a scriptului!
-
+Cu acest script poți face dintr-un laptop/pc vechi unul de gaming!(La propriu)
 Sper să vă placă!!
 
 Acest script batch este un instrument puternic de optimizare pentru sistemele Windows, creat pentru a îmbunătăți performanța unui PC printr-o serie de ajustări și modificări ale setărilor de sistem. Scriptul include o gamă largă de opțiuni care permit utilizatorilor să aplice rapid optimizări de performanță, rețea, GPU, SSD/HDD și multe altele, cu scopul de a îmbunătăți experiența generală a utilizatorului, mai ales în timpul jocurilor.
